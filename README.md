@@ -1,0 +1,4 @@
+ValidateEmail
+=============
+
+Validate email function
